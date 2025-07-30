@@ -1,5 +1,5 @@
 """
-# PDF ChatBot with Azure OpenAI and FAISS
+# PDF Analyzer with LLM-based Q&A
 
 This is a Streamlit-based chatbot that allows users to upload large PDF files and ask natural language questions about the content. It uses **Azure OpenAI embeddings**, **FAISS vector indexing**, and **GPT-4-mini** to provide human-like, context-aware answers based on the PDF data.
 
